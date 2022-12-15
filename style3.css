@@ -1,0 +1,16 @@
+body{
+   box-sizing: border-box;
+}
+
+.text{
+    text-align: center;
+    padding: 0px 150px 0 150px;
+}
+
+.container{
+}
+
+.row{
+    justify-content: center;
+    gap: 20px;
+}
